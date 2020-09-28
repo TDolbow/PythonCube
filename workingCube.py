@@ -214,8 +214,7 @@ def setToMiddle(pos,flag):
     
 top = tkinter.Tk()
 c = tkinter.Canvas(top,bg ="white",height = 500, width = 500)
-def hello():
-    print ("hello!")
+
 
 
 
